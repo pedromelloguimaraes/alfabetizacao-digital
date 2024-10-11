@@ -4,7 +4,7 @@ const videoData = {
     1: {
       id: 1,
       title: 'Aula 1: Introdução à Alfabetização Digital',
-      url: '/videos/test.mp4',
+      url: 'https://github.com/pedromelloguimaraes/alfabetizacao-digital/blob/gh-pages/videos/test.mp4',
       steps: [
         { start: 0, end: 5, description: 'Introdução ao tema' }, // Passo 1
         { start: 5, end: 10, description: 'Importância da alfabetização digital' }, // Passo 2
@@ -14,7 +14,7 @@ const videoData = {
     2: {
       id: 2,
       title: 'Aula 2: Usando a Internet',
-      url: '/videos/test.mp4',
+      url: 'https://github.com/pedromelloguimaraes/alfabetizacao-digital/blob/gh-pages/videos/test.mp4',
       steps: [
         { start: 0, end: 3, description: 'Acessando a internet' }, // Passo 1
         { start: 3, end: 6, description: 'Navegadores e suas funções' }, // Passo 2
